@@ -1,0 +1,100 @@
+                        precision    recall  f1-score   support
+
+                action       0.47      0.15      0.22       218
+        action / drama       0.00      0.00      0.00         4
+         action comedy       0.25      0.10      0.14        10
+          action drama       0.00      0.00      0.00         7
+       action thriller       0.06      0.27      0.10        15
+        action, comedy       0.00      0.00      0.00         7
+  action, crime, drama       0.00      0.00      0.00         5
+         action, drama       0.03      0.11      0.05         9
+       action, romance       0.03      0.11      0.05         9
+      action, thriller       0.12      0.11      0.12         9
+             adventure       0.32      0.45      0.38       104
+              animated       0.23      0.29      0.26        38
+         animated film       0.50      0.20      0.29         5
+        animated short       0.34      0.56      0.43        18
+             animation       0.29      0.17      0.22        52
+                 anime       0.35      0.71      0.47        21
+             biography       0.09      0.33      0.14        27
+      biography, drama       0.00      0.00      0.00         7
+                biopic       0.08      0.18      0.11        11
+          black comedy       0.00      0.00      0.00        10
+                comedy       0.80      0.05      0.10       872
+      comedy / romance       0.00      0.00      0.00         6
+          comedy drama       0.02      0.05      0.03        21
+          comedy short       0.60      0.90      0.72        10
+         comedy, crime       1.00      0.17      0.29         6
+         comedy, drama       0.02      0.02      0.02        47
+        comedy, family       0.00      0.00      0.00         7
+       comedy, fantasy       0.00      0.00      0.00         4
+       comedy, musical       0.10      0.15      0.12        13
+       comedy, romance       0.05      0.08      0.06        13
+          comedy-drama       0.05      0.52      0.08        27
+          comedy/drama       0.00      0.00      0.00        12
+                 crime       0.16      0.28      0.21       112
+          crime comedy       0.00      0.00      0.00         9
+           crime drama       0.21      0.48      0.29        91
+        crime thriller       0.20      0.18      0.19        11
+           documentary       0.11      0.67      0.18        15
+                 drama       0.62      0.02      0.03      1184
+       drama / romance       0.20      0.17      0.18         6
+         drama, action       0.00      0.00      0.00         4
+      drama, adventure       0.00      0.00      0.00         8
+      drama, biography       0.08      0.11      0.09         9
+         drama, comedy       0.00      0.00      0.00         5
+          drama, crime       0.11      0.15      0.12        13
+         drama, family       0.00      0.00      0.00         7
+        drama, musical       0.22      0.29      0.25         7
+        drama, mystery       0.00      0.00      0.00         4
+        drama, romance       0.10      0.17      0.12        18
+       drama, thriller       0.00      0.00      0.00         7
+            drama, war       0.00      0.00      0.00         9
+               dramedy       0.00      0.00      0.00         5
+                family       0.22      0.55      0.31        42
+          family drama       0.05      0.31      0.08        13
+       family, fantasy       0.50      0.50      0.50         4
+               fantasy       0.15      0.25      0.19        40
+             film noir       0.22      0.46      0.29        68
+            historical       0.11      0.33      0.17        15
+      historical drama       0.00      0.00      0.00        11
+                horror       0.52      0.70      0.60       230
+         horror comedy       0.08      0.11      0.09         9
+        literary drama       0.00      0.00      0.00         4
+          martial arts       0.35      0.78      0.48         9
+             melodrama       0.00      0.00      0.00         8
+          mockumentary       0.00      0.00      0.00         6
+               musical       0.17      0.42      0.24        93
+        musical comedy       0.05      0.23      0.09        31
+               mystery       0.22      0.56      0.31        62
+             mythology       0.31      1.00      0.47         4
+psychological thriller       0.00      0.00      0.00         4
+               romance       0.28      0.42      0.33       185
+         romance drama       0.00      0.00      0.00         6
+       romance, comedy       0.00      0.00      0.00         6
+        romance, drama       0.00      0.00      0.00        11
+        romance/comedy       0.00      0.00      0.00         8
+         romance/drama       0.00      0.00      0.00         7
+       romantic comedy       0.12      0.32      0.18        93
+        romantic drama       0.00      0.00      0.00        20
+                sci-fi       0.19      0.28      0.22        43
+       science fiction       0.29      0.49      0.36        82
+                serial       0.20      0.57      0.30        14
+                 short       0.50      0.17      0.25         6
+                social       0.06      0.25      0.10        16
+          social drama       0.00      0.00      0.00         8
+                sports       0.03      0.20      0.06         5
+          sports drama       0.00      0.00      0.00         4
+                   spy       0.00      0.00      0.00         5
+             superhero       0.60      0.60      0.60        10
+              suspense       0.03      0.10      0.05        21
+              thriller       0.31      0.05      0.09       194
+             tokusatsu       1.00      0.40      0.57         5
+                   war       0.24      0.83      0.38        54
+             war drama       0.00      0.00      0.00        13
+               western       0.55      0.93      0.69       172
+          world war ii       0.15      0.43      0.22        14
+
+              accuracy                           0.22      4803
+             macro avg       0.16      0.22      0.15      4803
+          weighted avg       0.45      0.22      0.18      4803
